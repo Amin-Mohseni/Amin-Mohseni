@@ -24,3 +24,16 @@ const aboutMe = {
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br></br>
+
+### Contact me :
+<br/>
+<p>
+  <a href="https://instagram.com/amiiinmohseni/">
+    <img src="https://img.shields.io/badge/Instagram-@Amin_Mohseni-Red?style=flat&logo=instagram" />
+  </a>
+  <a href="https://t.me/MohseniFard_A/">
+    <img src="https://img.shields.io/badge/Telegram-@MohseniFard_A-blue?style=flat&logo=telegram" />
+  </a>
+</p>
