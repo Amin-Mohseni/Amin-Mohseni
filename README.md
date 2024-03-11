@@ -3,7 +3,7 @@
 ```javascript
 const aboutMe = {
   fullname : "Amin Mohseni",
-  nickname : "<Ctrl+Z/>",
+  nickname : "<Cmd+Z/>",
   birthday : "14 April",
   skills : "JS, Reat, NEXTjs, ... ",
   city : "Dezful"
