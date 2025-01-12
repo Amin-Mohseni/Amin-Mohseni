@@ -5,7 +5,7 @@ const aboutMe = {
   fullname : "Amin Mohseni",
   nickname : "<Cmd+Z/>",
   birthday : "14 April",
-  skills : "JS, React, NextJS, ... ",
+  skills : "JavaScript , TypeScript , React, NextJS, ... ",
   city : "Dezful"
 }
 ```
